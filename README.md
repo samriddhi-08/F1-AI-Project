@@ -1,5 +1,9 @@
 # FORMULA 1 RACE INTELLIGENCE
 
+> 🌐 **Live Website Link (Permanent):** [https://samriddhi-08.github.io/F1-AI-Project/](https://samriddhi-08.github.io/F1-AI-Project/)  
+> 📊 **Tableau Public Dashboard:** [Formula 1 Race Intelligence](https://public.tableau.com/views/Formula1RaceIntelligence/Dashboard1)  
+> 📖 **Tableau Public Story:** [Championship Success Story](https://public.tableau.com/views/Formula1RaceIntelligence/Story1)
+
 A production-grade, single-page Formula 1 championship analytics platform built in pure **HTML5, CSS3, and vanilla JavaScript**. The project recreates the official reference design and Tableau telemetry dashboards in a strict **Formula 1 Black & Red** theme (`#0a0a0a` + `#e10600`).
 
 ---
