@@ -7,8 +7,8 @@
 // 1. TABLEAU PUBLIC EMBED CONFIGURATION
 // Replace the placeholders below with your live Tableau Public Dashboard & Story URLs
 // =============================================================================
-const DASHBOARD_URL = "PASTE_YOUR_TABLEAU_PUBLIC_DASHBOARD_URL_HERE";
-const STORY_URL = "PASTE_YOUR_TABLEAU_PUBLIC_STORY_URL_HERE";
+const DASHBOARD_URL = "https://public.tableau.com/views/Formula1RaceIntelligence/Dashboard1";
+const STORY_URL = "https://public.tableau.com/views/Formula1RaceIntelligence/Story1";
 
 // Story points definitions for interactive chapter navigator
 const STORY_POINTS_DATA = [
